@@ -1,0 +1,22 @@
+{
+  "name": "blogging-site-mini-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer-naveen/blogging-site-mini-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developer-naveen/blogging-site-mini-project/issues"
+  },
+  "homepage": "https://github.com/developer-naveen/blogging-site-mini-project#readme",
+  "dependencies": {
+    "node_module": "^0.0.0"
+  }
+}
